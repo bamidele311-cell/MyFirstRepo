@@ -1,3 +1,4 @@
 What I have learned from this course
 I learn how to make a pull request
 I learn how to merge file together 
+I learnt how to pull a request
